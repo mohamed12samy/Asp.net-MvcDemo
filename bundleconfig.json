@@ -1,0 +1,7 @@
+[
+    {
+        "outputFileName": "wwwroot/css/min/styles.min.css",
+        "inputFiles": [ "wwwroot/css/TraineeView.css" ],
+        "minify": {"enabled": true}
+    }
+]

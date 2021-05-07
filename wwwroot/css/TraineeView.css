@@ -1,0 +1,12 @@
+﻿body {
+    background-color: #6882aa;
+}
+a {
+    color: black;
+    font-size: 18px;
+    text-decoration: underline;
+}
+
+.table {
+    border-color: black
+}
